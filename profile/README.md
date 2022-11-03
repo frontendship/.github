@@ -25,7 +25,7 @@ Frontend alanında sıfırdan ileri seviyelere kadar sektöre katkı sağlayacak
  Topluluğun sosyal medya hesaplarını takip ederek bizimle iletişime geçebilir ve günlük shiplerinizi alabilirsiniz.
  **Frontendship'in bir parçası olarak değer katmaya başlayabilirsin.**
 
-[Discord](https://discord.gg/TkYDZw7Y) |
+[Discord](https://discord.gg/frontendship) |
 [Twitter](https://twitter.com/frontendship) |
 [YouTube](https://www.youtube.com/channel/UCxQg0FsLbVywst5lh73FMOg)
  
