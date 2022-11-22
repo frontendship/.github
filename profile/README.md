@@ -5,8 +5,7 @@
 
 Frontendship, **frontend** ve **friendship** kelimelerinin birleşimlerinden ortaya çıkmıştır.
 
-Burada **kod arkadaşınızı, mentorunuzu, yeni proje fikirlerinizi,
-menteenizi, ortak ilgi alanındaki kişilere ulaşarak network ağınızı genişletebilir ve işinizi** bulabilirsiniz.
+Burada **kod arkadaşınızı, tecrübeli kişileri, yeni proje fikirlerinizi, ortak ilgi alanındaki kişilere ulaşarak network ağınızı genişletebilir ve işinizi** bulabilirsiniz.
 
 ## Yazılım topluluğuna sağlamak istediği fayda nedir? Bunu nasıl yapacak?
 
